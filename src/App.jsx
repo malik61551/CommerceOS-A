@@ -1114,7 +1114,7 @@ function Sidebar({ T, active, onSelect, collapsed, mobileOpen, closeMobile }) {
               <div className="h-8 w-8 rounded-full bg-violet-500/20 flex items-center justify-center text-xs font-semibold text-violet-400 shrink-0">MK</div>
               <div className="min-w-0">
                 <p className={cx("text-xs font-medium truncate", T.text)}>Malikk</p>
-                <p className={cx("text-[10px] truncate", T.muted)}>Milton Home Appliances</p>
+                <p className={cx("text-[10px] truncate", T.muted)}>Malik</p>
               </div>
             </div>
           </div>
